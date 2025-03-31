@@ -73,4 +73,4 @@ def main():
 #muffled screaming#
 main()#calls function main
 
-#not everything had comments because there's some repetitive stuff
+#not everything has comments because there's some repetitive stuff
